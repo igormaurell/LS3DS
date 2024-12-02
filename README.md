@@ -4,9 +4,9 @@ We present LS3DS Dataset, a large-scale synthetic dataset made of multiple 3D in
 
 ## Useful Links
 
-[[Transform CAD to Mesh and Geometric Features]](https://github.com/AeroScan/3DGeometryDatasetGenerator)]
+[[Transform CAD to Mesh and Geometric Features](https://github.com/AeroScan/3DGeometryDatasetGenerator)]
 [[Generate Point Cloud Dataset, Divide, Merge and Evaluate](https://github.com/igormaurell/GeometricPrimitiveFittingTools)]
-[[LS3DS Datset (CAD Models)]https://huggingface.co/datasets/aeroscan/LS3DS)]
+[[LS3DS Datset (CAD Models)](https://huggingface.co/datasets/aeroscan/LS3DS)]
 
 ## Code Structure and how to use
 
